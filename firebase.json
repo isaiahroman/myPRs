@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "isaiahroman-myprs",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
