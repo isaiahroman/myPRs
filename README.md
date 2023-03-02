@@ -1,16 +1,4 @@
-# my_prs
+# myPRa
 
-A new Flutter project.
-
+Mobile app created using Dart, Flutter, and Hive for the database. The app allows for users to record and track their personal records while working out.
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
