@@ -8,12 +8,12 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: "AIzaSyBINSlo0NRZArtgidG8zvDDI-z9_8XhiuU",
-          authDomain: "myprs-3f007.firebaseapp.com",
-          projectId: "myprs-3f007",
-          storageBucket: "myprs-3f007.appspot.com",
-          messagingSenderId: "455262968889",
-          appId: "1:455262968889:web:5909e49f2561ccc3cc01e8"));
+          apiKey: ,
+          authDomain: ,
+          projectId: ,
+          storageBucket: ,
+          messagingSenderId: ,
+          appId: ;
 
   // initialize hive
   await Hive.initFlutter();
